@@ -1,0 +1,25 @@
+{
+  "name": "make-a-gov-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraZM9/Make-a-Gov-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraZM9/Make-a-Gov-Website/issues"
+  },
+  "homepage": "https://github.com/LauraZM9/Make-a-Gov-Website#readme",
+  "dependencies": {
+    "govuk-frontend": "^4.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
